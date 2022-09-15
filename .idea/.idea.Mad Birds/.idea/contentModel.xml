@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\S SHOW\.Rider2019.1\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\S SHOW\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\S SHOW\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Mad Birds.1026510216.00" t="ExcludeRecursive" />
+    <e p="C:\Users\S SHOW\Documents\Unity\Mad Birds" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Bird.cs" t="Include" />
+          <e p="Enemies.cs" t="Include" />
+        </e>
+        <e p="Sprite Sheets" t="Include">
+          <e p="get more at bevouliin_dot_com.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Mad Birds.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
